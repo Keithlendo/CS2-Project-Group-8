@@ -6,6 +6,24 @@ A program that helps students with math, specifically with algebra and geometry.
 
 This program helps is focused on Pisay students who struggle on math especially grade 8 students with Math a, b (a.k.a Algebra, and Geometry). You can save your topics in a built in file system so you wont lose track of your progress. Since it is powered by Ai, it can make custom shortcuts or quick solutions for long problems with a minimal margin of error. 
 
+##Features
+
+A free Python-based AI that takes a plain
+algebra or geometry question and shows every step. No sign-up,
+no subscription.
+
+- Solve algebra problems (equations, factoring, simplification)
+- Solve geometry problems (area, distance, angles, intersections)
+- Show every step, not just the final answer
+- Keep it free and simple, no sign-up required
+
+- A simple interface (CLI or web) instead of raw terminal input
+- Step-by-step explanations for factoring and solving equations
+- Drawing geometry shapes so you can *see* the triangle/line
+- Saving past questions so you can review them later
+- Supporting more problem types (quadratics, circles, etc.)
+
+
 ## How to run the program
 
 1. Open your browser and search "Github".
