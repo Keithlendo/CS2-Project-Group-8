@@ -71,9 +71,27 @@ can't even try.
 Existing options either give bare answers, hallucinate steps,
 or want your email and a credit card.
 
+Students’ inability to understand math lectures is one of the major reasons to why many Filipino and students all around the world struggle with mathematics. Specifically, in our case Algebra and Geometry. Algebra is known as difficult subject because they fail to analyze and understand symbols and correct syntax. Geometry is also considered hard because students find it difficult to identify variables and apply logic to problems.
+
+
+
+Anqui-Laja, A. & Laja, L. (2022). The Causes of Failure in Basic Mathematics at the College Stage. Psychology and Education: A Multidisciplinary Journal, 5(9), 1-8. http://doi.org/10.5281/zenodo.7352857
+
+Gunawardena, E. (2009). Is algebra really difficult for all students? https://www.researchgate.net/publication/41119129_Is_algebra_really_difficult_for_all_students
+
+Fulshear (2026, March 3). Why do students struggle in Geometry? https://www.mathnasium.com/math-centers/fulshear/news/why-do-students-struggle-geometry
+
+
 ## Project Objectives:
 
 Build a free, accessible learning tool that helps students overcome difficulties in algebra and geometry by providing clear, step-by-step explanations and visual diagrams for visual learners rather than just final answers that students get confused with.
+
+Integrate LLM API architecture
+Cover grade 7 to 1st year of college math
+Provide step by step explanation
+Enable interactive AI chat
+Generate dynamic visual diagrams
+Maintain high accesability
 
 ## Features:
 
