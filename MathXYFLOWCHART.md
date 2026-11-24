@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 flowchart LR
     %% Unconnected Status Note (Outside Execution Flow)
     Note["Project: MathXY (Python CLI / Web) | Status: Design Phase"]
