@@ -5,7 +5,7 @@ flowchart LR
     style Note fill:#f9f9f9,stroke:#999,stroke-dasharray: 5 5
 
     %% Start & Topic Entry
-    Start(("Student opens MathXY Dashboard")) --> LoadCheck{"Load saved topic?"}
+    Start(["Student opens MathXY Dashboard"]) --> LoadCheck{"Load saved topic?"}
     LoadCheck -->|Yes| LoadFile["Load saved topic and past questions"]
     LoadCheck -->|No| SearchInput["Enter topic or math problem in search bar"]
 
@@ -63,4 +63,4 @@ flowchart LR
 
     Another{"Another topic?"}
     Another -->|Yes| SearchInput
-    Another -->|No| End(("Session complete"))
+    Another -->|No| End(["Session complete"])
